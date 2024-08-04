@@ -36,4 +36,4 @@ pip install gTTS pydub opencv-python requests numpy pillow
 
 ## Usage
 
-Youtube [Python | Membuat Video dari Text]()
+Youtube [Python | Membuat Video dari Text](https://www.youtube.com/shorts/tqwrSBNuY7o)

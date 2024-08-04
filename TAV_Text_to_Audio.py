@@ -9,3 +9,5 @@ Nama saya adalah Sodikin dari Universitas Teknokrat Indonesia, saya semester 8 d
 # Generate the speech
 tts = gTTS(text, lang="id")
 tts.save("manual.mp3")
+
+# finish

@@ -59,3 +59,5 @@ video_clip.write_videofile(final_video_name, codec="libx264")
 
 # Menghapus file video sementara
 os.remove(temp_video_name)
+
+# end
